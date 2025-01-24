@@ -1,26 +1,26 @@
 {
-  "store_id": 51561,
-  "name": "psgacademy",
   "domain": "psgacademy.netlify.app",
-  "short_name": "psgacademy",
-  "description": "psgacademy",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "journal",
+    "custom": "ecom-beauty"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/psgacademy",
+  "logo": "/img/uploads/logo-horizontal-azul.png",
+  "name": "psgacademy",
+  "short_name": "psgacademy",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "Open Sans",
+  "favicon": "/img/uploads/logo-horizontal-azul.png",
+  "icons_font": "line-awesome",
   "country_code": "BR",
-  "repository": "ecomplus-stores/psgacademy",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-horizontal-azul.png",
+  "store_id": 51561,
+  "description": "psgacademy",
+  "large_icon": "/img/uploads/logo-horizontal-azul.png"
 }
