@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c4bfcc6d5e44cae8b69c0d12902259c5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9ecda31e62e5818dd55befda32cc46db.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.bc9e4994d01c1548cc1d8ccde001e237.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.6b504bcb9c25c63aed713d262597e019.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.96f0ec6705fb4f3162a72f0225ae5ef5.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "psgacademy",
+  "short_name": "psgacademy",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "psgacademy",
+  "background_color": "#ffffff",
+  "theme_color": "#e4002b"
+}
